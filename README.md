@@ -92,5 +92,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=EmilianoCervantes&st
 
 #### Top Repositories
 <div width="100%" align="center"><a href="https://github.com/EmilianoCervantes/go-learnings" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilianoCervantes&repo=go-learnings&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EmilianoCervantes/Sin-Trafico-Engineering-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilianoCervantes&repo=Sin-Trafico-Engineering-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br /><br />
+
 <div width="100%" align="center"><a href="https://github.com/EmilianoCervantes/7-Flask-JWT-Extended" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilianoCervantes&repo=7-Flask-JWT-Extended&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
