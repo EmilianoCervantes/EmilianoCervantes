@@ -4,7 +4,9 @@
 ## Software Engineer
 -----------------
 
-I'm a software engineer with more than 7 years of experience in software development. FND, API, services. I like impactful projects that resonate with users.
+Senior Software Engineer with 7+ years of experience in modern APIs and Services in Golang, Node.js, and GraphQL; front-end with React and TypeScript. I led e-commerce and banking projects that resulted in DAU and revenue increases, and more stable systems.
+
+I like impactful projects that resonate with users.
 
 *   🌍  I'm based in Orlando, Florida
 *   🖥️  See my portfolio at [https://emilianocervantes.github.io/](http://emilianocervantes.github.io/)
